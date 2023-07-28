@@ -26,7 +26,7 @@ footer {
 .tile-image{
   height: 200px;
   float: left;
-  margin: 50px;
+  margin-right: 50px;
 }
 
 .card{
@@ -35,15 +35,6 @@ footer {
 
 .left{
   float: left;
-}
-
-.card-title{
-  text-align: center;
-  margin-top: 70px;
-}
-
-.card-text{
-  text-align: center;
 }
 
 .right{
